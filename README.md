@@ -1,5 +1,16 @@
+<hr style="border: 1px dashed lightgray; margin: 40px 0;" />
 
+<div align="center">
 
+  <!-- 상단 웨이브 이미지 + 타이틀 -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20marinrim!&fontSize=45&fontAlignY=50&stroke=000000&strokeWidth=3"/>
+
+  <!-- 깜빡이는 타이핑 효과 (더 가깝게 붙이고 중앙 정렬) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Let's+code+it.;Solving+hunger+and+bugs" />
+
+</div>
+
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
